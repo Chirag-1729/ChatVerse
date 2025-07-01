@@ -58,6 +58,11 @@ Frontend (HTML/CSS/JS): Easily hosted on Netlify or GitHub Pages
 
 ---
 
+### Live link
+https://chatverse-frontend.netlify.app/
+
+---
+
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/c3aeec4f-1a26-46b8-b934-4025cbf9840e)
